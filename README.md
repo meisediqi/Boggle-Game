@@ -1,4 +1,4 @@
-## Boggle-Game
+# Boggle-Game
 
 Project created under the guidance of Dr. Varick Erickson. Copyright (c) 2021 Varick Erickson.
 
